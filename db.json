@@ -30,7 +30,7 @@
 ],
   "fruit": [
     {
-  "1": {
+  "id_1": {
         "id": 1,
         "name": "apple",
         "color": "green",
@@ -41,7 +41,7 @@
   }
     },
     {
-    "2": {
+    "id_2": {
         "id": 2,
         "name": "banana",
         "color": "yellow",
@@ -52,7 +52,7 @@
     }
     },
     {
-    "3": {
+    "id_3": {
         "id": 3,
         "name": "strawberries",
         "color": "red",
